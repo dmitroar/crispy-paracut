@@ -8,8 +8,8 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "args": [
-                "--inputfile", "Downloads/1.mp4",
-                "--outputfolder", "result"
+                "--inputfile", "1.mp4",
+                "--outputfolder", "results"
             ]
         }
     ]
